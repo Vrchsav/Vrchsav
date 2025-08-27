@@ -78,7 +78,7 @@
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=vrchsav&theme=tokyonight" alt="vrchsav" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=vrchsav&theme=tokyonight" alt="vrchsav" />
 </div>
 
 
