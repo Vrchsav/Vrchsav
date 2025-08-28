@@ -18,7 +18,6 @@
 ## 🚀 About Me
 
 - 🔭 **Current Project:** [WealthGenix - AI-Powered Finance Management SaaS](https://github.com/Vrchsav/WealthGenix)
-- 🎯 **Goal:** Preparing for **Amazon SDE-1** technical interviews
 - 💡 **Specialization:** Full-Stack Development with MERN Stack
 - 🏆 **Achievement Highlight:** Top 5% in Adobe GenSolve Hackathon (80,000+ participants)
 - 📚 **Learning:** Advanced System Design & DSA Problem Solving
